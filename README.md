@@ -56,6 +56,10 @@ Ensuite dans la fenetre GUI:
 1. Cliquer `Start`
 2. Recuperer le port affiche (ex: `/dev/pts/7`)
 
+## Screenshot de l'app
+
+![Screenshot de l'application](assets/app-screenshot.png)
+
 ### Mode auto (headless)
 
 Si present dans votre copie locale:
