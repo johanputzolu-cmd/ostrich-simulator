@@ -14,12 +14,24 @@ Ce package ne sert pas a flasher OneROM ni a programmer Ostrich.
 ## Contenu du repo
 
 - `LINUX-DATALOG-SIM.zip`
+- `source/` (codes source modifiables du simulateur)
 
 Le ZIP contient:
 - `honda_datalog_simulator_gui.py` (version visuelle)
 - `honda_datalog_simulator.py` (version headless)
 - scripts de lancement Linux
 - script d'installation des dependances Ubuntu
+
+## Codes source (modifiables)
+
+Tous les scripts source sont egalement disponibles directement dans:
+
+- `source/honda_datalog_simulator_gui.py`
+- `source/honda_datalog_simulator.py`
+- `source/honda_datalog_simulator_com.py`
+- `source/Start-Honda-Datalog-GUI.sh`
+- `source/install-deps-ubuntu.sh`
+- `source/requirements.txt`
 
 ## Installation (Linux)
 
